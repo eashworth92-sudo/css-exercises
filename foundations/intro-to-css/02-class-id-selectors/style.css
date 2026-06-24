@@ -1,1 +1,15 @@
-/* Add CSS Styling */
+        p{
+        background-color:red/pink;
+        font-family: verdana, DejaVu Sans,sans-serif;
+        }
+
+      #Element-2{
+        color: blue;
+        font-size: 36px;
+        }
+
+      #Element-4{
+        background-color: lightgreen;
+        font-size: 24px;
+        font-weight: bold;
+        }
